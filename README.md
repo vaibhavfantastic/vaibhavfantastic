@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="logo" src="https://media2.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/200w.webp?cid=ecf05e47lk9kfds8mmmy2d70uq2220ct3au0jqzomkysr64v&ep=v1_gifs_search&rid=200w.webp&ct=g">
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/200w.webp?cid=ecf05e47lk9kfds8mmmy2d70uq2220ct3au0jqzomkysr64v&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavfantastic&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavfantastic" /> </p>
